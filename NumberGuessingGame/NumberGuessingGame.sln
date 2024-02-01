@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "NumberGuessingGame", "NumberGuessingGame.esproj", "{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624B8AEE-37C2-4E3F-85C1-DAD2043DAC42}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE76FA58-AE00-4D1A-B91C-86F8BF5CED9B}
+	EndGlobalSection
+EndGlobal
