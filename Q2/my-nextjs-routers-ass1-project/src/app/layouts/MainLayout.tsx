@@ -2,11 +2,14 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
-const MainLayout: React.FC = ({  }) => {
+interface Layout {
+    children?: React.ReactNode;
+}
+const MainLayout: React.FC<Layout> = ({ children }) => {
     return (
         <div>
             <Header />
-            <main>{}</main>
+            <main>{children}</main>
             <Footer />
         </div>
     );
