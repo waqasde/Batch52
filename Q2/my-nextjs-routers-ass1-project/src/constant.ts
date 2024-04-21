@@ -1,5 +1,5 @@
 export  const products = [
-    { id: '1', name: 'Product 1' },
-    { id: '2', name: 'Product 2' },
-    { id: '3', name: 'Product 3' },
+    { Id: '1', name: 'Product 1' },
+    { Id: '2', name: 'Product 2' },
+    { Id: '3', name: 'Product 3' },
 ];
