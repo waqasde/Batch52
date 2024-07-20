@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "product": "Ikea Bags 1",
+    "category": "bags",
+    "image": "https://i.imgur.com/ezeey7i.jpeg",
+    "price": 36.49
+  },
+  {
+    "id": 2,
+    "product": "Ikea Bags 2",
+    "category": "bags",
+    "image": "https://i.imgur.com/cLQzGDm.jpeg",
+    "price": 21.99
+  },
+  {
+    "id": 3,
+    "product": "Ikea Bags 3",
+    "category": "bags",
+    "image": "https://i.imgur.com/ltWg10f.jpeg",
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "product": "Ikea made Caps",
+    "category": "caps",
+    "image": "https://i.imgur.com/DEdQR1f.jpeg",
+    "price": 5.09
+  },
+  {
+    "id": 5,
+    "product": "Ikea Hats",
+    "category": "caps",
+    "image": "https://i.imgur.com/maVDbak.jpeg",
+    "price": 17.49
+  },
+  {
+    "id": 6,
+    "product": "Ikea Aprons",
+    "category": "aprons",
+    "image": "https://i.imgur.com/5Q4FWEo.jpeg",
+    "price": 29.35
+  },
+  {
+    "id": 7,
+    "product": "Ikea Aprons 2",
+    "category": "aprons",
+    "image": "https://i.imgur.com/FDnuI5b.jpeg",
+    "price": 18.99
+  },
+  {
+    "id": 8,
+    "product": "Shoes 1",
+    "category": "shoes",
+    "image": "https://i.imgur.com/VJyYkUS.jpeg",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "product": "Shoes 2",
+    "category": "shoes",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2017%2F06%2Fikea-adidas-ultraboost-custom-1.jpg?cbr=1&q=90",
+    "price": 69.99
+  }
+
+,
+{
+
+"id": 10,
+"product": "ACCESSORIES 2",
+"category": "accessories",
+"image": "https://i.imgur.com/K5OfiDs.jpeg",
+"price": 39.99
+
+
+}
+
+]
